@@ -24,3 +24,8 @@ It contains the following features:
 - DiabetesPedigreeFunction
 - Age\
 The target variable is 'Outcome,' indicating the presence (1) or absence (0) of diabetes.
+
+# Results
+After training the model, the script displays the accuracy and loss metrics on the training, validation, and test sets.
+
+Feel free to modify the hyperparameters, architecture, or other aspects of the code to experiment with different configurations and improve the model's performance.
