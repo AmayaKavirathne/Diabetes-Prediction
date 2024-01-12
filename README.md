@@ -12,7 +12,8 @@ This repository contains a Python script for building a neural network-based mod
 - imbalanced-learn (imblearn)
 
 # Dataset
-The dataset used for this project is the Pima Indian Diabetes dataset (diabetes.csv). It contains the following features:
+The dataset used for this project is the Pima Indian Diabetes dataset (diabetes.csv). \
+It contains the following features:
 
 - Pregnancies
 - Glucose
@@ -21,5 +22,5 @@ The dataset used for this project is the Pima Indian Diabetes dataset (diabetes.
 - Insulin
 - BMI
 - DiabetesPedigreeFunction
-- Age
+- Age\
 The target variable is 'Outcome,' indicating the presence (1) or absence (0) of diabetes.
